@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="540.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-169.000000 -184.000000 540.000000 325.000000" height="325.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="2.0"
+              d="M -49.908665,-4.445007 C -69.019447,-5.679935 -95.833221,-36.198494 -94.598297,-55.309273"
+              class="id_Bo-Gars id_BMF" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -49.908665,-4.445007 C -49.152203,-30.967117 -8.234348,-69.615593 18.287762,-68.859131"
+              class="id_Bo-Gars id_18th" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -49.908665,-4.445007 C -26.140408,-32.335369 51.347527,-38.518524 79.237885,-14.750268"
+              class="id_Bo-Gars id_J.O.K.E.R.S" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -49.908665,-4.445007 C -39.037140,-13.538019 -9.090330,-10.870249 0.002683,0.001277"
+              class="id_Bo-Gars id_13th" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -49.908665,-4.445007 C -25.240646,18.397816 -22.502850,89.664078 -45.345673,114.332100"
+              class="id_Bo-Gars id_47" stroke-opacity="1.0" stroke="#7a8bad"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -49.908665,-4.445007 C -65.413628,18.911488 -123.705818,30.688778 -147.062317,15.183809"
+              class="id_Bo-Gars id_Blue_Devil.2" stroke-opacity="1.0"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -94.598297,-55.309273 C -54.196907,-25.144056 -38.842651,80.705833 -69.007866,121.107224"
+              class="id_BMF id_Green_Land" stroke-opacity="1.0" stroke="#46ab42"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -94.598297,-55.309273 C -74.731056,-80.596458 -6.999423,-88.726379 18.287762,-68.859131"
+              class="id_BMF id_18th" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -94.598297,-55.309273 C -80.352852,-40.663055 -80.954018,2.674439 -95.600235,16.919884"
+              class="id_BMF id_187" stroke-opacity="1.0" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -94.598297,-55.309273 C -87.826065,-93.546715 -20.311552,-140.744537 17.925894,-133.972305"
+              class="id_BMF id_AYB.2" stroke-opacity="1.0" stroke="#2fc889"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -94.598297,-55.309273 C -85.496368,-101.162689 -3.063353,-156.289917 42.790066,-147.187988"
+              class="id_BMF id_AYB" stroke-opacity="1.0" stroke="#2fc889"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -94.598297,-55.309273 C -97.387985,-94.839371 -42.277344,-158.319046 -2.747243,-161.108734"
+              class="id_BMF id_Uptown_Posse" stroke-opacity="1.0"
+              stroke="#2fc889"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -94.598297,-55.309273 C -56.366837,-88.440742 50.677559,-80.790756 83.809029,-42.559296"
+              class="id_BMF id_DPC" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -94.598297,-55.309273 C -47.926167,-70.107849 44.279896,-22.297508 59.078468,24.374624"
+              class="id_BMF id_Pie-IX" stroke-opacity="1.0" stroke="#a4a614"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -94.598297,-55.309273 C -39.220013,-64.809128 58.097202,4.008511 67.597061,59.386795"
+              class="id_BMF id_Px-80" stroke-opacity="1.0" stroke="#a4a614"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -94.598297,-55.309273 C -41.588562,-55.508095 38.224243,23.708263 38.423061,76.717995"
+              class="id_BMF id_50_Niggaz" stroke-opacity="1.0" stroke="#a4a614"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -94.598297,-55.309273 C -64.615990,-63.167358 -7.855404,-29.981030 0.002683,0.001277"
+              class="id_BMF id_13th" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -94.598297,-55.309273 C -92.347427,-74.728203 -59.842735,-100.480286 -40.423805,-98.229416"
+              class="id_BMF id_67" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -94.598297,-55.309273 C -63.023312,-33.763981 -47.978779,45.916431 -69.524071,77.491417"
+              class="id_BMF id_99" stroke-opacity="1.0" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -94.598297,-55.309273 C -50.819496,-31.231522 -21.267921,70.553299 -45.345673,114.332100"
+              class="id_BMF id_47" stroke-opacity="1.0" stroke="#46ab42"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -94.598297,-55.309273 C -84.016144,-30.665386 -105.108734,22.173683 -129.752625,32.755840"
+              class="id_BMF id_Blue_Devil.1" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -94.598297,-55.309273 C -90.992485,-30.717850 -122.470901,11.577997 -147.062317,15.183809"
+              class="id_BMF id_Blue_Devil.2" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -94.598297,-55.309273 C -76.463402,-34.568142 -80.372765,23.745878 -101.113892,41.880768"
+              class="id_BMF id_RTC" stroke-opacity="1.0" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -69.007866,121.107224 C -65.630455,115.019760 -51.433136,110.954689 -45.345673,114.332100"
+              class="id_Green_Land id_47" stroke-opacity="1.0" stroke="#2e9072"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 9.822408,-34.322304 C 4.608113,-42.922737 9.687325,-63.644836 18.287762,-68.859131"
+              class="id_Lg_Side id_18th" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 9.822408,-34.322304 C 14.723179,-25.493643 8.831345,-4.899495 0.002683,0.001277"
+              class="id_Lg_Side id_13th" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -31.518032,129.226624 C -37.262466,129.013245 -45.559048,120.076530 -45.345673,114.332100"
+              class="id_Plan_riel id_47" stroke-opacity="1.0" stroke="#2e9072"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 18.287762,-68.859131 C 12.665964,-28.925726 -55.666828,22.541681 -95.600235,16.919884"
+              class="id_18th id_187" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 18.287762,-68.859131 C 5.192752,-81.809395 4.975633,-120.877296 17.925894,-133.972305"
+              class="id_18th id_AYB.2" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 18.287762,-68.859131 C 7.522449,-89.425362 22.223835,-136.422684 42.790066,-147.187988"
+              class="id_18th id_AYB" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 18.287762,-68.859131 C -4.369162,-83.102051 -16.990166,-138.451813 -2.747243,-161.108734"
+              class="id_18th id_Uptown_Posse" stroke-opacity="1.0"
+              stroke="#63a8f4"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 18.287762,-68.859131 C 36.651985,-76.703415 75.964737,-60.923519 83.809029,-42.559296"
+              class="id_18th id_DPC" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 18.287762,-68.859131 C 41.299561,-70.227379 77.869629,-37.762066 79.237885,-14.750268"
+              class="id_18th id_J.O.K.E.R.S" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 18.287762,-68.859131 C 45.092655,-58.370522 69.567078,-2.430268 59.078468,24.374624"
+              class="id_18th id_Pie-IX" stroke-opacity="1.0" stroke="#d8867f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 18.287762,-68.859131 C 53.798805,-53.071808 83.384384,23.875750 67.597061,59.386795"
+              class="id_18th id_Px-80" stroke-opacity="1.0" stroke="#d8867f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 18.287762,-68.859131 C 28.402828,-51.430035 17.431780,-10.113789 0.002683,0.001277"
+              class="id_18th id_13th" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 18.287762,-68.859131 C 0.671391,-62.990871 -34.555550,-80.613052 -40.423805,-98.229416"
+              class="id_18th id_67" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 18.287762,-68.859131 C 29.995508,-22.026653 -22.691591,65.783676 -69.524071,77.491417"
+              class="id_18th id_99" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -95.600235,16.919884 C -91.710785,23.014791 -95.018982,37.991322 -101.113892,41.880768"
+              class="id_187 id_RTC" stroke-opacity="1.0" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 17.925894,-133.972305 C 20.255590,-141.588287 35.174095,-149.517685 42.790066,-147.187988"
+              class="id_AYB.2 id_AYB" stroke-opacity="1.0" stroke="#00caff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 42.790066,-147.187988 C 30.898453,-140.864670 3.576069,-149.217117 -2.747243,-161.108734"
+              class="id_AYB id_Uptown_Posse" stroke-opacity="1.0"
+              stroke="#00caff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 42.790066,-147.187988 C 80.360268,-116.133148 90.133316,-13.195580 59.078468,24.374624"
+              class="id_AYB id_Pie-IX" stroke-opacity="1.0" stroke="#75a88a"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 42.790066,-147.187988 C 63.670444,-109.192657 37.998016,-20.879101 0.002683,0.001277"
+              class="id_AYB id_13th" stroke-opacity="1.0" stroke="#63a8f4"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 42.790066,-147.187988 C 37.870468,-154.966934 42.159500,-174.014755 49.938450,-178.934357"
+              class="id_AYB id_Black_Dragons" stroke-opacity="1.0"
+              stroke="#00caff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 42.790066,-147.187988 C 44.677231,-156.080765 60.847141,-166.589172 69.739914,-164.702011"
+              class="id_AYB id_White_Tigers" stroke-opacity="1.0"
+              stroke="#00caff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 27.066805,30.939285 C 32.156208,23.224018 51.363205,19.285225 59.078468,24.374624"
+              class="id_Dangerous_Street id_Pie-IX" stroke-opacity="1.0"
+              stroke="#ea8615"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 27.066805,30.939285 C 15.466378,30.164507 -0.772095,11.601704 0.002683,0.001277"
+              class="id_Dangerous_Street id_13th" stroke-opacity="1.0"
+              stroke="#d8867f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 27.066805,30.939285 C 27.738857,38.704819 17.098637,51.361198 9.333105,52.033249"
+              class="id_Dangerous_Street id_South_Side" stroke-opacity="1.0"
+              stroke="#ea8615"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 83.809029,-42.559296 C 88.456604,-36.083260 85.713921,-19.397844 79.237885,-14.750268"
+              class="id_DPC id_J.O.K.E.R.S" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 79.237885,-14.750268 C 83.030983,-2.893406 70.935333,20.581530 59.078468,24.374624"
+              class="id_J.O.K.E.R.S id_Pie-IX" stroke-opacity="1.0"
+              stroke="#d8867f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 79.237885,-14.750268 C 89.368576,11.706350 64.879677,66.587303 38.423061,76.717995"
+              class="id_J.O.K.E.R.S id_50_Niggaz" stroke-opacity="1.0"
+              stroke="#d8867f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 79.237885,-14.750268 C 66.341148,4.047082 18.800034,12.898009 0.002683,0.001277"
+              class="id_J.O.K.E.R.S id_13th" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 79.237885,-14.750268 C 85.413094,-20.933081 103.950134,-20.944487 110.132942,-14.769276"
+              class="id_J.O.K.E.R.S id_Motard" stroke-opacity="1.0"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 59.078468,24.374624 C 67.784622,29.673340 72.895775,50.680641 67.597061,59.386795"
+              class="id_Pie-IX id_Px-80" stroke-opacity="1.0" stroke="#ea8615"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 59.078468,24.374624 C 65.416061,38.974380 53.022816,70.380402 38.423061,76.717995"
+              class="id_Pie-IX id_50_Niggaz" stroke-opacity="1.0"
+              stroke="#ea8615"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 59.078468,24.374624 C 54.661121,39.855423 24.813902,56.450596 9.333105,52.033249"
+              class="id_Pie-IX id_South_Side" stroke-opacity="1.0"
+              stroke="#ea8615"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 67.597061,59.386795 C 65.228500,68.687836 47.724102,79.086555 38.423061,76.717995"
+              class="id_Px-80 id_50_Niggaz" stroke-opacity="1.0"
+              stroke="#ea8615"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 67.597061,59.386795 C 42.201084,61.028568 1.644454,25.397255 0.002683,0.001277"
+              class="id_Px-80 id_13th" stroke-opacity="1.0" stroke="#d8867f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 38.423061,76.717995 C 15.395640,69.058723 -7.656586,23.028698 0.002683,0.001277"
+              class="id_50_Niggaz id_13th" stroke-opacity="1.0" stroke="#d8867f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 38.423061,76.717995 C 27.668123,77.599037 10.214148,62.788193 9.333105,52.033249"
+              class="id_50_Niggaz id_South_Side" stroke-opacity="1.0"
+              stroke="#ea8615"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 38.423061,76.717995 C 29.192135,100.994560 -21.069103,123.563026 -45.345673,114.332100"
+              class="id_50_Niggaz id_47" stroke-opacity="1.0" stroke="#8c8b43"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 0.002683,0.001277 C -27.728754,-11.559564 -51.984650,-70.497978 -40.423805,-98.229416"
+              class="id_13th id_67" stroke-opacity="1.0" stroke="#c686e9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.002683,0.001277 C 1.595361,29.404655 -40.120693,75.898743 -69.524071,77.491417"
+              class="id_13th id_99" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 0.002683,0.001277 C 12.275161,8.541587 17.873415,39.760769 9.333105,52.033249"
+              class="id_13th id_South_Side" stroke-opacity="1.0"
+              stroke="#d8867f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 0.002683,0.001277 C 13.799177,31.937115 -13.409836,100.535606 -45.345673,114.332100"
+              class="id_13th id_47" stroke-opacity="1.0" stroke="#7a8bad"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 0.002683,0.001277 C -26.373810,32.450783 -114.612808,41.560303 -147.062317,15.183809"
+              class="id_13th id_Blue_Devil.2" stroke-opacity="1.0"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 0.002683,0.001277 C -11.844734,28.600491 -72.514679,53.728184 -101.113892,41.880768"
+              class="id_13th id_RTC" stroke-opacity="1.0" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -69.524071,77.491417 C -57.320255,80.023872 -42.813213,102.128288 -45.345673,114.332100"
+              class="id_99 id_47" stroke-opacity="1.0" stroke="#46ab42"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -69.524071,77.491417 C -82.964165,76.687248 -101.918060,55.320862 -101.113892,41.880768"
+              class="id_99 id_RTC" stroke-opacity="1.0" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -49.209805,134.353561 C -52.441269,129.576447 -50.122791,117.563568 -45.345673,114.332100"
+              class="id_146 id_47" stroke-opacity="1.0" stroke="#2e9072"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -163.793961,15.844556 C -160.579788,12.366077 -150.540802,11.969630 -147.062317,15.183809"
+              class="id_Outlaws id_Blue_Devil.2" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.333105,52.033249 C -13.054438,26.063843 -7.681644,-46.471588 18.287762,-68.859131"
+              class="id_South_Side id_18th" stroke-opacity="1.0"
+              stroke="#d8867f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 9.333105,52.033249 C -14.786791,72.092155 -81.054985,66.000664 -101.113892,41.880768"
+              class="id_South_Side id_RTC" stroke-opacity="1.0" stroke="#a4a614"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 347.419159,135.654419 C 345.550751,132.120422 348.049103,124.016808 351.583099,122.148384"
+              class="id_LPE id_Ve_Crew" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 365.308228,118.739563 C 363.244965,122.166351 355.009888,124.211647 351.583099,122.148384"
+              class="id_PSC id_Ve_Crew" stroke-opacity="1.0" stroke="#ff5c81"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 341.814575,111.921844 C 345.813599,112.013451 351.674713,118.149368 351.583099,122.148384"
+              class="id_St.Henri id_Ve_Crew" stroke-opacity="1.0"
+              stroke="#ff5c81"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -129.752625,32.755840 C -136.728973,32.703373 -147.114777,22.160154 -147.062317,15.183809"
+              class="id_Blue_Devil.1 id_Blue_Devil.2" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -129.752625,32.755840 C -122.199890,28.853079 -105.016647,34.328033 -101.113892,41.880768"
+              class="id_Blue_Devil.1 id_RTC" stroke-opacity="1.0"
+              stroke="#5fc613"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#c686e9" r="9.411765" cx="-49.908665"
+                class="id_Bo-Gars" cy="-4.445007" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="20.0" cx="-94.5983"
+                class="id_BMF" cy="-55.309273" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="17.352942" cx="18.287762"
+                class="id_18th" cy="-68.85913" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="10.294118" cx="79.237885"
+                class="id_J.O.K.E.R.S" cy="-14.750268" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="17.352942" cx="0.002682744"
+                class="id_13th" cy="0.0012770933" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="11.176471" cx="-45.345673"
+                class="id_47" cy="114.3321" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="8.529411" cx="-147.06232"
+                class="id_Blue_Devil.2" cy="15.183809" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="5.882353" cx="-69.007866"
+                class="id_Green_Land" cy="121.10722" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="6.7647057" cx="-95.600235"
+                class="id_187" cy="16.919884" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="6.7647057" cx="17.925894"
+                class="id_AYB.2" cy="-133.9723" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="11.176471" cx="42.790066"
+                class="id_AYB" cy="-147.18799" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="6.7647057" cx="-2.7472434"
+                class="id_Uptown_Posse" cy="-161.10873" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="6.7647057" cx="83.80903"
+                class="id_DPC" cy="-42.559296" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="11.176471" cx="59.07847"
+                class="id_Pie-IX" cy="24.374624" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="8.529411" cx="67.59706"
+                class="id_Px-80" cy="59.386795" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="10.294118" cx="38.42306"
+                class="id_50_Niggaz" cy="76.717995" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="6.7647057" cx="-40.423805"
+                class="id_67" cy="-98.229416" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="8.529411" cx="-69.52407"
+                class="id_99" cy="77.49142" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="6.7647057" cx="-129.75262"
+                class="id_Blue_Devil.1" cy="32.75584" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="9.411765" cx="-101.11389"
+                class="id_RTC" cy="41.880768" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="5.882353" cx="9.822408"
+                class="id_Lg_Side" cy="-34.322304" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="5.0" cx="-31.518032"
+                class="id_Plan_riel" cy="129.22662" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="5.0" cx="49.93845"
+                class="id_Black_Dragons" cy="-178.93436" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="5.0" cx="69.739914"
+                class="id_White_Tigers" cy="-164.70201" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="6.7647057" cx="27.066805"
+                class="id_Dangerous_Street" cy="30.939285" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="9.411765" cx="9.333105"
+                class="id_South_Side" cy="52.03325" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="5.0" cx="110.13294"
+                class="id_Motard" cy="-14.769276" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="5.0" cx="-49.209805"
+                class="id_146" cy="134.35356" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="5.0" cx="-163.79396"
+                class="id_Outlaws" cy="15.844556" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="5.0" cx="347.41916"
+                class="id_LPE" cy="135.65442" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="6.7647057" cx="351.5831"
+                class="id_Ve_Crew" cy="122.148384" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="5.0" cx="365.30823"
+                class="id_PSC" cy="118.73956" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="5.0" cx="341.81458"
+                class="id_St.Henri" cy="111.921844" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+</svg>
